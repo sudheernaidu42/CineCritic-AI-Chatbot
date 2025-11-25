@@ -43,4 +43,4 @@ If a user asks a question unrelated to movies (e.g., historical facts or cooking
 
 ## Acknowledgment
 I would like to express my sincere gratitude to Lovely Professional University for providing the academic platform and necessary resources to complete this project.<br>
-A special thanks to [Siva Sanjay Akula](https://github.com/sivasanjay14) for his dedication, technical support, and collaboration throughout the development of CineCritic AI.
+A special thanks to [Siva Sanjay Akula](https://github.com/sivasanjay14) for his dedication, technical support, and collaboration throughout the development of Project.
